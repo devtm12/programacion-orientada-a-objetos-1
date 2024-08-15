@@ -1,4 +1,4 @@
-public class P4_OperadoresMat {
+public class p4_OperadoresMat {
     public static void main(String[] args) {
         double x,y,suma,resta,mult,div,res,pot;
         x =10.5;
