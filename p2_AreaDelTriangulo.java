@@ -6,7 +6,7 @@ public class p2_AreaDelTriangulo {
         double area;
         Scanner obj= new Scanner(System.in);
 
-        System.out.print("Dame la base ?");
+        System.out.print"Dame la base ?");
         base = obj.nextInt();
         System.out.print("Dame la altura ?");
         altura = obj.nextInt();
