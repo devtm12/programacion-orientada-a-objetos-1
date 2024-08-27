@@ -38,3 +38,8 @@
  - p25_TipoAngulo
  - p26_AceptarEstudiante
  - p27_LeyDeNewton
+## ACTIVIDAD 6
+- p29_Calculadora
+- p30_DiaSemana
+- p31_NumerosRomanos
+- p32_PagoEstacionamiento
