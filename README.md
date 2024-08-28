@@ -50,3 +50,9 @@ p35_ContinentesMundo
 p36_CompraPizza
 p37_CalculoNotas
 p38_AceptarEstudianteV2
+## ACTIVIDAD 7
+39_Numeros1a100
+p40_Numeros100a1
+p41_Calificaciones de procesos
+p42_TablaMultiplicar
+p43_ConteoNumeros
