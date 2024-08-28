@@ -43,3 +43,10 @@
 - p30_DiaSemana
 - p31_NumerosRomanos
 - p32_PagoEstacionamiento
+## PRACTICA 2
+p33_Numeros consecutivos
+p34_NumeroMayor
+p35_ContinentesMundo
+p36_CompraPizza
+p37_CalculoNotas
+p38_AceptarEstudianteV2
