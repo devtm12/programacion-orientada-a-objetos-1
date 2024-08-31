@@ -56,3 +56,8 @@
 - p41_Calificaciones de procesos
 - p42_TablaMultiplicar
 - p43_ConteoNumeros
+## ACTIVIDAD 8
+- p44_ParesAscendente
+- p45_ImparesDescendente
+- p46_TablaConversion
+- p47_ConjeturaCollatz
