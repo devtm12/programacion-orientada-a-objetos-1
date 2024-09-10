@@ -82,3 +82,6 @@
 - p62_SecuenciaNumeros2
 - p63_SumaTerminos1
 - p64_SumaTerminos2
+
+## PRACTICA 5
+- p65_SistemaPapeleria
