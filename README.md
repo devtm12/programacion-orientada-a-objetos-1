@@ -85,3 +85,6 @@
 
 ## PRACTICA 5
 - p65_SistemaPapeleria
+
+## PRIMER EXAMEN PARCIAL
+- pe01_PrimerExamenParcial.java
