@@ -88,3 +88,10 @@
 
 ## PRIMER EXAMEN PARCIAL
 - pe01_PrimerExamenParcial.java
+
+## ACTIVIDAD 11
+- p66_PromedioNumeros
+- p67_Temperaturasdeconversión
+- p68_SumaRango
+- p69_TablaMultiplicar
+- p70_CalificacionLetra
