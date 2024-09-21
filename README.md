@@ -107,3 +107,8 @@
 - p78_MedidasLongitud  
 - p79_SumaMultiplos
 - p80_Angulo
+## ACTIVIDAD 13
+- p86_ArregloMostrar
+- p87_ArregloTemperaturas
+- p88_Aleatorios
+- p89_ArregloAleatorios
