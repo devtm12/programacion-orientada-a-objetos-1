@@ -123,3 +123,7 @@
 - p91_MayoresPromedio
 - p92_MayorMenor
 - p93_ParesImpares
+## PRACTICA 8
+- 98_Circulo
+- p99_Rectangulo
+- p100_Articulo 
