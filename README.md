@@ -139,3 +139,7 @@
 - p101_TrabajoPersona
 - p102_AutorLibro
 - p103_ClienteFactura
+
+## PRACTICA 9
+- p104_PuntoCirculo
+- P105_PuntoTriangulo
