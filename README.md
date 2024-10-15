@@ -143,3 +143,7 @@
 ## PRACTICA 9
 - p104_PuntoCirculo
 - P105_PuntoTriangulo
+
+## ACTIVIDAD 17
+- p106_Persona
+- p107_Forma
