@@ -11,12 +11,11 @@ public class JugadorActivo extends Jugador {
         calcularTotal(); 
     }
 
-    @Override
+    
     public double getBono() {
         return (getSalario() * 0.10) + (partidos * 50) + (goles * 5); 
     }
 
-    @Override
     public String toString() {
         return "JugadorActivo [partidos=" + partidos + ", goles=" + goles + "]";
     }

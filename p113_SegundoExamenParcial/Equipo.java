@@ -1,6 +1,6 @@
 package p113_SegundoExamenParcial;
 
-public class Equipo {
+public class Equipo{
     private String Nombre;
     private String Liga;
     private Jugador[] Jugadores;

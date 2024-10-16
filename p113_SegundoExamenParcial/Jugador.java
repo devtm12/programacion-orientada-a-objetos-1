@@ -40,8 +40,6 @@ abstract class Jugador {
     public void calcularTotal() {
         Total = Salario + getBono();
     }
-
-    @Override
     public String toString() {
         return "Jugador [Nombre=" + Nombre + ", Sexo=" + Sexo + ", Descripcion=" + Descripcion 
                 + ", Salario=" + Salario + ", Total=" + Total + "]";
