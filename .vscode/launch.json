@@ -1,0 +1,784 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p0_holaMundo",
+            "request": "launch",
+            "mainClass": "p0_holaMundo",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App(1)",
+            "request": "launch",
+            "mainClass": "p101_TrabajoPersona.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App(2)",
+            "request": "launch",
+            "mainClass": "p102_AutorLibro.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App(3)",
+            "request": "launch",
+            "mainClass": "p103.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App(4)",
+            "request": "launch",
+            "mainClass": "p104_PuntoCirculo.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App(5)",
+            "request": "launch",
+            "mainClass": "p105_PuntoTriangulo.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App(6)",
+            "request": "launch",
+            "mainClass": "p106_Persona.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App(7)",
+            "request": "launch",
+            "mainClass": "p107_Forma.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App(8)",
+            "request": "launch",
+            "mainClass": "p108_Vehiculo.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App(9)",
+            "request": "launch",
+            "mainClass": "p109_FormaV2.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p10_CalcularAngulo",
+            "request": "launch",
+            "mainClass": "p10_CalcularAngulo",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App(10)",
+            "request": "launch",
+            "mainClass": "p110_CuentaBancariaV1.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App(11)",
+            "request": "launch",
+            "mainClass": "p111_CuentaBancariaV2.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p11_ConvertirTemperatura",
+            "request": "launch",
+            "mainClass": "p11_ConvertirTemperatura",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p12_VolumenCilindro",
+            "request": "launch",
+            "mainClass": "p12_VolumenCilindro",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p13_CalculoTiempo",
+            "request": "launch",
+            "mainClass": "p13_CalculoTiempo",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p14_ConvertirADolares",
+            "request": "launch",
+            "mainClass": "p14_ConvertirADolares",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p15_Trabajando_enteros",
+            "request": "launch",
+            "mainClass": "p15_Trabajando_enteros",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p16_TrabajandoFlotantes",
+            "request": "launch",
+            "mainClass": "p16_TrabajandoFlotantes",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p17_TrabajandoConstantes",
+            "request": "launch",
+            "mainClass": "p17_TrabajandoConstantes",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p18_TrabajandoCaracteres",
+            "request": "launch",
+            "mainClass": "p18_TrabajandoCaracteres",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p19_ConversionTipos",
+            "request": "launch",
+            "mainClass": "p19_ConversionTipos",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p1_AreaDelCirculo",
+            "request": "launch",
+            "mainClass": "p1_AreaDelCirculo",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p20_VerificaNumero",
+            "request": "launch",
+            "mainClass": "p20_VerificaNumero",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p21_VerificaSuma",
+            "request": "launch",
+            "mainClass": "p21_VerificaSuma",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p22_ConvertirTemperatura",
+            "request": "launch",
+            "mainClass": "p22_ConvertirTemperatura",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p23_PagaTrabajadorv2",
+            "request": "launch",
+            "mainClass": "p23_PagaTrabajadorv2",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p24_EstacionesAño",
+            "request": "launch",
+            "mainClass": "p24_EstacionesAño",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p25_TipoAngulo",
+            "request": "launch",
+            "mainClass": "p25_TipoAngulo",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p26_AceptarEstudiante",
+            "request": "launch",
+            "mainClass": "p26_AceptarEstudiante",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p27_LeyDeNewton",
+            "request": "launch",
+            "mainClass": "p27_LeyDeNewton",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p29_Calculadora",
+            "request": "launch",
+            "mainClass": "p29_Calculadora",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p2_AreaDelTriangulo",
+            "request": "launch",
+            "mainClass": "p2_AreaDelTriangulo",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p30_DiaSemana",
+            "request": "launch",
+            "mainClass": "p30_DiaSemana",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p31_NumerosRomanos",
+            "request": "launch",
+            "mainClass": "p31_NumerosRomanos",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p32_PagoEstacionamiento",
+            "request": "launch",
+            "mainClass": "p32_PagoEstacionamiento",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p33_NumerosConsecutivos",
+            "request": "launch",
+            "mainClass": "p33_NumerosConsecutivos",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p34_NumeroMayor",
+            "request": "launch",
+            "mainClass": "p34_NumeroMayor",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p35_ContinentesMundo",
+            "request": "launch",
+            "mainClass": "p35_ContinentesMundo",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p36_CompraPizza",
+            "request": "launch",
+            "mainClass": "p36_CompraPizza",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p37_CalculoNotasP",
+            "request": "launch",
+            "mainClass": "p37_CalculoNotasP",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p38_AceptarEstudiante",
+            "request": "launch",
+            "mainClass": "p38_AceptarEstudiante",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p39_Numeros1a100",
+            "request": "launch",
+            "mainClass": "p39_Numeros1a100",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p3_Trabajadores",
+            "request": "launch",
+            "mainClass": "p3_Trabajadores",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p40_Numeros100a1",
+            "request": "launch",
+            "mainClass": "p40_Numeros100a1",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p41_ProcesaCalificaciones",
+            "request": "launch",
+            "mainClass": "p41_ProcesaCalificaciones",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p42_TablaMultiplicar",
+            "request": "launch",
+            "mainClass": "p42_TablaMultiplicar",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p43_ConteoNumeros",
+            "request": "launch",
+            "mainClass": "p43_ConteoNumeros",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p44_ParesAscendente",
+            "request": "launch",
+            "mainClass": "p44_ParesAscendente",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p45_ImparesDescendente",
+            "request": "launch",
+            "mainClass": "p45_ImparesDescendente",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p46_TablaConversion",
+            "request": "launch",
+            "mainClass": "p46_TablaConversion",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p47_ConjeturaCollatz",
+            "request": "launch",
+            "mainClass": "p47_ConjeturaCollatz",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p48_ImparesAscendente",
+            "request": "launch",
+            "mainClass": "p48_ImparesAscendente",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p49_ParesDescendente",
+            "request": "launch",
+            "mainClass": "p49_ParesDescendente",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p4_OperadoresMat",
+            "request": "launch",
+            "mainClass": "p4_OperadoresMat",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p50_Temperaturasdeconversión",
+            "request": "launch",
+            "mainClass": "p50_Temperaturasdeconversión",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p51_SerieFibonacci",
+            "request": "launch",
+            "mainClass": "p51_SerieFibonacci",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p52_Numeros1aN",
+            "request": "launch",
+            "mainClass": "p52_Numeros1aN",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p53_NumerosNa1",
+            "request": "launch",
+            "mainClass": "p53_NumerosNa1",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p54_ArribaAbajo",
+            "request": "launch",
+            "mainClass": "p54_ArribaAbajo",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p55_SumaParesImpares",
+            "request": "launch",
+            "mainClass": "p55_SumaParesImpares",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p56_SumaPromedio",
+            "request": "launch",
+            "mainClass": "p56_SumaPromedio",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p57_TablasMultiplicar",
+            "request": "launch",
+            "mainClass": "p57_TablasMultiplicar",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p58_Piramide",
+            "request": "launch",
+            "mainClass": "p58_Piramide",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p59_FactorialNumeros",
+            "request": "launch",
+            "mainClass": "p59_FactorialNumeros",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p5_Calificaciones",
+            "request": "launch",
+            "mainClass": "p5_Calificaciones",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p60_SumaTerminos",
+            "request": "launch",
+            "mainClass": "p60_SumaTerminos",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p61_SecuenciaNumeros",
+            "request": "launch",
+            "mainClass": "p61_SecuenciaNumeros",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p62_SecuenciaNumeros2",
+            "request": "launch",
+            "mainClass": "p62_SecuenciaNumeros2",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p63_SumaTerminos1",
+            "request": "launch",
+            "mainClass": "p63_SumaTerminos1",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p64_SumaTerminos2",
+            "request": "launch",
+            "mainClass": "p64_SumaTerminos2",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p65_SistemaPapeleria",
+            "request": "launch",
+            "mainClass": "p65_SistemaPapeleria",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p66_PromedioNumeros",
+            "request": "launch",
+            "mainClass": "p66_PromedioNumeros",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p67_Temperaturasdeconversión",
+            "request": "launch",
+            "mainClass": "p67_Temperaturasdeconversión",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p68_SumaRango",
+            "request": "launch",
+            "mainClass": "p68_SumaRango",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p69_TablaMultiplicar",
+            "request": "launch",
+            "mainClass": "p69_TablaMultiplicar",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p6_OperadoresAsignacion",
+            "request": "launch",
+            "mainClass": "p6_OperadoresAsignacion",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p70_CalificacionLetra",
+            "request": "launch",
+            "mainClass": "p70_CalificacionLetra",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p71_MayorTresNumeros",
+            "request": "launch",
+            "mainClass": "p71_MayorTresNumeros",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p72_SumaDigitos",
+            "request": "launch",
+            "mainClass": "p72_SumaDigitos",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p73_SumaParesImpares",
+            "request": "launch",
+            "mainClass": "p73_SumaParesImpares",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p74_Factorial",
+            "request": "launch",
+            "mainClass": "p74_Factorial",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p75_CuadroCaracter",
+            "request": "launch",
+            "mainClass": "p75_CuadroCaracter",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p76_NumeroMenor",
+            "request": "launch",
+            "mainClass": "p76_NumeroMenor",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p77_DiaSemana",
+            "request": "launch",
+            "mainClass": "p77_DiaSemana",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p78_MedidasLongitud",
+            "request": "launch",
+            "mainClass": "p78_MedidasLongitud",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p79_SumaMultiplos",
+            "request": "launch",
+            "mainClass": "p79_SumaMultiplos",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p7_FuncionesTrigonometricas",
+            "request": "launch",
+            "mainClass": "p7_FuncionesTrigonometricas",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p80_Angulo",
+            "request": "launch",
+            "mainClass": "p80_Angulo",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p81_InicializaArregloNumeros",
+            "request": "launch",
+            "mainClass": "p81_InicializaArregloNumeros",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p82_InicializaArregloCadenas",
+            "request": "launch",
+            "mainClass": "p82_InicializaArregloCadenas",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p83_InicializaNombresEdades",
+            "request": "launch",
+            "mainClass": "p83_InicializaNombresEdades",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p84_PromedioArreglo",
+            "request": "launch",
+            "mainClass": "p84_PromedioArreglo",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p85_NombresEdades",
+            "request": "launch",
+            "mainClass": "p85_NombresEdades",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p86_ArregloMostrar",
+            "request": "launch",
+            "mainClass": "p86_ArregloMostrar",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p87_ArregloTemperaturas",
+            "request": "launch",
+            "mainClass": "p87_ArregloTemperaturas",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p88_Aleatorios",
+            "request": "launch",
+            "mainClass": "p88_Aleatorios",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p89_ArregloAleatorios",
+            "request": "launch",
+            "mainClass": "p89_ArregloAleatorios",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p8_DividirEnCifras",
+            "request": "launch",
+            "mainClass": "p8_DividirEnCifras",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p90_Temperaturas",
+            "request": "launch",
+            "mainClass": "p90_Temperaturas",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p91_MayoresPromedio",
+            "request": "launch",
+            "mainClass": "p91_MayoresPromedio",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p92_MayorMenor",
+            "request": "launch",
+            "mainClass": "p92_MayorMenor",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p93_ParesImpares",
+            "request": "launch",
+            "mainClass": "p93_ParesImpares",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App(12)",
+            "request": "launch",
+            "mainClass": "p94_Empleado01.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App(13)",
+            "request": "launch",
+            "mainClass": "p95_Empleado02.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p98_Circulo",
+            "request": "launch",
+            "mainClass": "p98_Circulo",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p99_Rectangulo",
+            "request": "launch",
+            "mainClass": "p99_Rectangulo",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p9_HipotenusaTriangulo",
+            "request": "launch",
+            "mainClass": "p9_HipotenusaTriangulo",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "pe01_PrimerExamenParcial",
+            "request": "launch",
+            "mainClass": "pe01_PrimerExamenParcial",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        }
+    ]
+}
