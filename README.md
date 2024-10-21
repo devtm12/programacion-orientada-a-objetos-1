@@ -164,3 +164,9 @@
 
 ## SEGUNDO EXAMEN PARCIAL
 - p113_SegundoExamenParcial
+
+## ACTIVIDAD 20
+- p114_Animales
+- p115_Telefono
+- p116_Juego
+- P117_FiguraGeometrica
