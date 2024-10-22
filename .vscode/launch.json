@@ -8,6 +8,20 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "p119_Organismo.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p118_Calculadora.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "p117_FiguraGeometrica.App",
             "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
         },

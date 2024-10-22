@@ -170,3 +170,7 @@
 - p115_Telefono
 - p116_Juego
 - P117_FiguraGeometrica
+
+## ACTIVIDAD 21
+- p118_Calculadora
+- p119_Organismo
