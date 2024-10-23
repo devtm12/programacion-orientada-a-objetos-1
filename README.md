@@ -174,3 +174,6 @@
 ## ACTIVIDAD 21
 - p118_Calculadora
 - p119_Organismo
+
+## PRACTICA 12
+- p120_Vehiculo
