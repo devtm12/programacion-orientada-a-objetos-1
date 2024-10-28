@@ -8,6 +8,48 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "p127_MiExcepcion.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p125_Excpcion5",
+            "request": "launch",
+            "mainClass": "p125_Excpcion5",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p124_Excepcion4",
+            "request": "launch",
+            "mainClass": "p124_Excepcion4",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p123_Excepcion3",
+            "request": "launch",
+            "mainClass": "p123_Excepcion3",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p122_Excepcion2",
+            "request": "launch",
+            "mainClass": "p122_Excepcion2",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p121_Excepcion1",
+            "request": "launch",
+            "mainClass": "p121_Excepcion1",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "p120_Vehiculo.App",
             "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
         },

@@ -177,3 +177,12 @@
 
 ## PRACTICA 12
 - p120_Vehiculo
+
+## ACTIVIDAD 22
+- p121_Excepcion1
+- p122_Excepcion2
+- p123_Excepcion3
+- p124_Excepcion4
+- p125_Excepcion5
+- p126_Excepcion6
+- p127_MiExcepcion
