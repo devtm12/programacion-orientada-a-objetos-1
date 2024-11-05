@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p138_ArchivoEstudiante",
+            "request": "launch",
+            "mainClass": "p138_ArchivoEstudiante",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p139_ArchivoEstudiante",
+            "request": "launch",
+            "mainClass": "p139_ArchivoEstudiante",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p137_ArchivoDeportes",
+            "request": "launch",
+            "mainClass": "p137_ArchivoDeportes",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p139_ArchivoEstudiante.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "p136_Archivos5.App",
