@@ -8,6 +8,41 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "p136_Archivos5.App",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p135_Archivo4",
+            "request": "launch",
+            "mainClass": "p135_Archivo4",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p134_Archivo3",
+            "request": "launch",
+            "mainClass": "p134_Archivo3",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p133_Archivo2",
+            "request": "launch",
+            "mainClass": "p133_Archivo2",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p132_Archivos1",
+            "request": "launch",
+            "mainClass": "p132_Archivos1",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "p127_MiExcepcion.App",
             "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
         },
