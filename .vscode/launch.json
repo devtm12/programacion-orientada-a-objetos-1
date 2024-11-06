@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p142_LeyDeNewtonGUI",
+            "request": "launch",
+            "mainClass": "p142_LeyDeNewtonGUI",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p141_AreaTrianguloGUI",
+            "request": "launch",
+            "mainClass": "p141_AreaTrianguloGUI",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p140_HolaMundoGUI",
+            "request": "launch",
+            "mainClass": "p140_HolaMundoGUI",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
             "name": "p138_ArchivoEstudiante",
             "request": "launch",
             "mainClass": "p138_ArchivoEstudiante",
