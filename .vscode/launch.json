@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p144_Temperaturas",
+            "request": "launch",
+            "mainClass": "p144_Temperaturas",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
+            "name": "p143_PagaTrabajador",
+            "request": "launch",
+            "mainClass": "p143_PagaTrabajador",
+            "projectName": "programacion-orientada-a-objetos-1_bf9d9a05"
+        },
+        {
+            "type": "java",
             "name": "p142_LeyDeNewtonGUI",
             "request": "launch",
             "mainClass": "p142_LeyDeNewtonGUI",
