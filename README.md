@@ -213,3 +213,6 @@
 ## PRACTICA 15
 - p143_PagaTrabjador
 - p144_Temperaturas
+
+##  ACTIVIDAD 25
+- p145_EstudianteGUI_V1;
