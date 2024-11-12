@@ -216,3 +216,6 @@
 
 ##  ACTIVIDAD 25
 - p145_EstudianteGUI_V1;
+
+## ACTIVIDAD 26
+- p146_EstudianteGUI_V2
